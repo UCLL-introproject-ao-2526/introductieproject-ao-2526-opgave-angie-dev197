@@ -1,1 +1,1 @@
-SHFT+Arrow
+SHIFT+page up

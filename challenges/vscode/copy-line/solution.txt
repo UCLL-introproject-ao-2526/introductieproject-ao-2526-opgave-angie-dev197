@@ -1,1 +1,1 @@
-Shift + Alt + Down
+Shift + Alt + Arrow Down
