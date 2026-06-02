@@ -1,1 +1,1 @@
-cd home/rumpus
+cd rumpus
